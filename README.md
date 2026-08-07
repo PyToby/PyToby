@@ -23,11 +23,6 @@ My current ambitions are learning the way MLs/neural networks work and how to pr
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PyToby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PyToby"><img src="https://github-readme-stats.vercel.app/api?username=PyToby&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PyToby's GitHub stats" /></a>
 
 ### Feel free to reach out!
 I'm always open to interesting projects and part time jobs! I am primarily looking for oppurtunities which would advance my skills and experience and develop my current knowledge.
